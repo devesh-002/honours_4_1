@@ -1,0 +1,340 @@
+sno_x,constituency,winner,party,sno_y,state,population,growth,sr,literacy
+2,nalgonda,gutha sukender reddy,inc,88,andhra pradesh,"3,488,809",7.41 %,983,64.2
+4,warangal,rajaiah siricilla,inc,83,andhra pradesh,"3,512,576",8.21 %,997,65.11
+6,khammam,nama nageswara rao,tdp,140,andhra pradesh,"2,797,370",8.47 %,1011,64.81
+8,srikakulam,killi krupa rani,inc,147,andhra pradesh,"2,703,114",6.52 %,1015,61.74
+9,vizianagaram,jhansi lakshmi botcha,inc,193,andhra pradesh,"2,344,474",4.23 %,1019,58.89
+10,visakhapatnam,daggubati purandeswari,inc,44,andhra pradesh,"4,290,589",11.96 %,1006,66.91
+19,guntur,rayapati sambasiva rao,inc,22,andhra pradesh,"4,887,813",9.47 %,1003,67.4
+24,kurnool,kotla jaya surya prakash reddy,inc,54,andhra pradesh,"4,053,463",14.85 %,988,59.97
+25,anantapur,anantha venkata rami reddy,inc,52,andhra pradesh,"4,081,148",12.10 %,977,63.57
+31,chittoor,naramalli sivaprasad,tdp,47,andhra pradesh,"4,174,064",11.43 %,997,71.53
+32,adilabad,rathod ramesh,tdp,143,andhra pradesh,"2,741,239",10.18 %,1001,61.01
+34,karimnagar,ponnam prabhakar,inc,69,andhra pradesh,"3,776,269",8.15 %,1008,64.15
+35,nizamabad,madhu yaskhi goud,inc,165,andhra pradesh,"2,551,335",8.77 %,1040,61.25
+37,medak,vijaya shanthi .m,trs,121,andhra pradesh,"3,033,288",13.60 %,992,61.42
+40,hyderabad,asaduddin owaisi,aimim,60,andhra pradesh,"3,943,323",2.97 %,954,83.25
+42,mahbubnagar,k. chandrasekhar rao,trs,55,andhra pradesh,"4,053,028",15.34 %,977,55.04
+45,karimganj,lalit mohan suklabaidya,inc,389,assam,"1,228,686",21.90 %,963,78.22
+48,dhubri,badruddin ajmal,audf,240,assam,"1,949,258",24.44 %,953,58.34
+49,kokrajhar,sansuma khunggur,bopf,468,assam,"887,142",5.21 %,959,65.22
+50,barpeta,ismail hussain,inc,292,assam,"1,693,622",21.43 %,953,63.81
+56,jorhat,bijoy krishna handique,inc,418,assam,"1,092,256",9.31 %,962,82.15
+57,dibrugarh,paban singh ghatowar,inc,368,assam,"1,326,335",11.92 %,961,76.05
+58,lakhimpur,ranee narah,inc,435,assam,"1,042,137",17.22 %,968,77.2
+62,sheohar,rama devi,bjp,511,bihar,"656,246",27.19 %,893,53.78
+63,sitamarhi,arjun roy,jd(u),96,bihar,"3,423,574",27.62 %,899,52.05
+64,madhubani,hukmadeo narayan yadav,bjp,37,bihar,"4,487,379",25.51 %,926,58.62
+66,supaul,vishwa mohan kumar,jd(u),203,bihar,"2,229,076",28.66 %,929,57.67
+67,araria,pradeep kumar singh,bjp,138,bihar,"2,811,569",30.25 %,921,53.53
+68,kishanganj,mohammad asrarul haque,inc,293,bihar,"1,690,400",30.40 %,950,55.46
+69,katihar,nikhil kumar choudhary,bjp,117,bihar,"3,071,029",28.35 %,919,52.24
+70,purnia,uday singh alias pappu singh,bjp,106,bihar,"3,264,619",28.33 %,921,51.08
+71,madhepura,sharad yadav,jd(u),231,bihar,"2,001,762",31.12 %,911,52.25
+72,darbhanga,kirti azad,bjp,61,bihar,"3,937,385",19.47 %,911,56.56
+73,muzaffarpur,captain jai narayan prasad,jd(u),24,bihar,"4,801,062",28.14 %,900,63.43
+74,vaishali,raghuvansh prasad singh,rjd,87,bihar,"3,495,021",28.57 %,895,66.6
+75,gopalganj,purnmasi ram,jd(u),163,bihar,"2,562,012",19.02 %,1021,65.47
+76,siwan,om prakash yadav,ind,101,bihar,"3,330,464",22.70 %,988,69.45
+77,maharajganj,uma shanaker singh,rjd,148,uttar pradesh,"2,684,703",23.50 %,943,62.76
+441,maharajganj,harsh vardhan,inc,148,uttar pradesh,"2,684,703",23.50 %,943,62.76
+78,saran,lalu prasad,rjd,59,bihar,"3,951,862",21.64 %,954,65.96
+81,samastipur,maheshwar hazari,jd(u),45,bihar,"4,261,566",25.53 %,911,61.86
+82,begusarai,dr. monazir hassan,jd(u),126,bihar,"2,970,541",26.44 %,895,63.87
+83,khagaria,dinesh chandra yadav,jd(u),296,bihar,"1,666,886",30.19 %,886,57.92
+84,bhagalpur,syed shahnawaz hussain,bjp,120,bihar,"3,037,766",25.36 %,880,63.14
+85,banka,digvijay singh,ind,227,bihar,"2,034,763",26.48 %,907,58.17
+86,munger,rajiv ranjan singh alias lalan,jd(u),358,bihar,"1,367,765",20.21 %,876,70.46
+87,nalanda,kaushalendra kumar,jd(u),134,bihar,"2,877,653",21.39 %,922,64.43
+91,buxar,jagada nand singh,rjd,285,bihar,"1,706,352",21.67 %,922,70.14
+95,aurangabad,sushil kumar singh,jd(u),71,maharashtra,"3,701,282",27.76 %,923,79.02
+95,aurangabad,sushil kumar singh,jd(u),169,bihar,"2,540,073",26.18 %,926,70.32
+242,aurangabad,chandrakant khaire,shs,71,maharashtra,"3,701,282",27.76 %,923,79.02
+242,aurangabad,chandrakant khaire,shs,169,bihar,"2,540,073",26.18 %,926,70.32
+96,gaya,hari manjhi,bjp,42,bihar,"4,391,418",26.43 %,937,63.67
+97,nawada,bhola singh,bjp,205,bihar,"2,219,146",22.63 %,939,59.76
+98,jamui,bhudeo choudhary,jd(u),273,bihar,"1,760,405",25.85 %,922,59.79
+99,north goa,shripad yesso naik,bjp,480,goa,"818,008",7.84 %,963,89.57
+100,south goa,cosme francisco caitano,inc,515,goa,"640,537",8.73 %,986,87.59
+101,kachchh,jat poonamben veljibhai,bjp,219,gujarat,"2,092,371",32.16 %,908,70.59
+102,banaskantha,gadhvi mukeshkumar,inc,111,gujarat,"3,120,506",24.61 %,938,65.32
+103,patan,jagdish thakor,inc,360,gujarat,"1,343,734",13.61 %,935,72.3
+104,mahesana,patel jayshreeben kanubhai,bjp,226,gujarat,"2,035,064",10.73 %,926,83.61
+105,sabarkantha,chauhan mahendrasinh,bjp,183,gujarat,"2,428,589",16.62 %,952,75.79
+106,gandhinagar,l.k.advani,bjp,350,gujarat,"1,391,753",4.29 %,923,84.16
+109,surendranagar,koli patel somabhai gandalal,inc,274,gujarat,"1,756,268",15.91 %,930,72.13
+110,rajkot,kuvarjibhai mohanbhai bavalia,inc,67,gujarat,"3,804,558",20.02 %,927,80.96
+111,porbandar,radadiya vitthalbhai hansrajbhai,inc,529,gujarat,"585,449",9.06 %,950,75.78
+112,jamnagar,ahir vikrambhai arjanbhai madam,inc,211,gujarat,"2,160,119",13.44 %,939,73.65
+113,junagadh,solanki dinubhai boghabhai,bjp,142,gujarat,"2,743,082",12.05 %,953,75.8
+114,amreli,kachhadia naranbhai,bjp,329,gujarat,"1,514,190",8.63 %,964,74.25
+115,bhavnagar,rajendrasinh ghanshyamsinh,bjp,133,gujarat,"2,880,365",16.63 %,933,75.52
+116,anand,solanki bharatbhai madhavsinh,inc,218,gujarat,"2,092,745",12.70 %,925,84.37
+117,kheda,dinsha patel,inc,196,gujarat,"2,299,885",13.62 %,940,82.65
+118,panchmahal,chauhan prabhatsinh pratapsinh,bjp,187,gujarat,"2,390,776",18.05 %,949,70.99
+120,vadodara,balkrishna khanderao shukla,bjp,48,gujarat,"4,165,626",14.38 %,934,78.92
+122,bharuch,mansukhbhai dhanjibhai vasava,bjp,321,gujarat,"1,551,019",13.16 %,925,81.51
+124,surat,shrimati darshana vikram,bjp,12,gujarat,"6,081,322",42.24 %,787,85.53
+125,navsari,c. r. patil,bjp,366,gujarat,"1,329,672",8.15 %,961,83.88
+126,valsad,kishanbhai vestabhai patel,inc,286,gujarat,"1,705,678",20.92 %,922,78.55
+127,ambala,selja,inc,410,haryana,"1,128,350",11.23 %,885,81.75
+128,kurukshetra,naveen jindal,inc,452,haryana,"964,655",16.86 %,888,76.31
+129,sirsa,ashok tanwar,inc,378,haryana,"1,295,189",15.99 %,897,68.82
+130,hisar,bhajan lal s/o kheraj,hjcbl,277,haryana,"1,743,931",13.45 %,872,72.89
+131,karnal,arvind kumar sharma,inc,334,haryana,"1,505,324",18.14 %,887,74.73
+132,sonipat,jitender singh,inc,342,haryana,"1,450,001",13.35 %,856,79.12
+133,rohtak,deepender singh,inc,430,haryana,"1,061,204",12.88 %,867,80.22
+135,gurgaon,inderjit singh,inc,328,haryana,"1,514,432",73.96 %,854,84.7
+136,faridabad,avtar singh bhadana,inc,263,haryana,"1,809,733",32.54 %,873,81.7
+137,kangra,dr. rajan sushant,bjp,331,himachal pradesh,"1,510,075",12.77 %,1012,85.67
+138,mandi,virbhadra singh,inc,446,himachal pradesh,"999,777",10.92 %,1007,81.53
+139,hamirpur,anurag singh thakur,bjp,417,uttar pradesh,"1,104,285",5.80 %,861,68.77
+139,hamirpur,anurag singh thakur,bjp,552,himachal pradesh,"454,768",10.19 %,1095,88.15
+425,hamirpur,vijay bahadur singh,bsp,417,uttar pradesh,"1,104,285",5.80 %,861,68.77
+425,hamirpur,vijay bahadur singh,bsp,552,himachal pradesh,"454,768",10.19 %,1095,88.15
+140,shimla,virender kashyap,bjp,483,himachal pradesh,"814,010",12.67 %,915,83.64
+142,srinagar,farooq abdullah,jkn,388,jammu and kashmir,"1,236,829",20.35 %,900,69.41
+143,anantnag,mirza mehboob beg,jkn,422,jammu and kashmir,"1,078,692",38.58 %,927,62.69
+145,udhampur,ch. lal singh,inc,538,jammu and kashmir,"554,985",20.78 %,870,68.49
+146,jammu,madan lal sharma,inc,326,jammu and kashmir,"1,529,958",12.74 %,880,83.45
+148,belgaum,angadi suresh channabasappa,bjp,25,karnataka,"4,779,661",13.41 %,973,73.48
+149,bagalkot,gaddigoudar p.c.,bjp,249,karnataka,"1,889,752",14.40 %,989,68.82
+150,bijapur,ramesh chandappa jigajinagi,bjp,210,karnataka,"2,177,331",20.50 %,960,67.15
+150,bijapur,ramesh chandappa jigajinagi,bjp,581,chhattisgarh,"255,230",8.78 %,984,40.86
+151,gulbarga,mallikarjun kharge,inc,162,karnataka,"2,566,326",18.01 %,971,64.85
+152,raichur,pakkirappa.s.,bjp,244,karnataka,"1,928,812",15.51 %,1000,59.56
+153,bidar,n.dharam singh,inc,287,karnataka,"1,703,300",13.37 %,956,70.51
+154,koppal,shivaramagouda shivanagouda,bjp,351,karnataka,"1,389,920",16.21 %,986,68.09
+155,bellary,j. shantha,bjp,181,karnataka,"2,452,595",20.99 %,983,67.43
+156,haveri,udasi shivkumar chanabasappa,bjp,313,karnataka,"1,597,668",11.02 %,950,77.4
+157,dharwad,pralhad joshi,bjp,256,karnataka,"1,847,023",15.13 %,971,80.0
+158,uttara kannada,anantkumar hegde,bjp,345,karnataka,"1,437,169",6.17 %,979,84.06
+159,davanagere,g.m. siddeswara,bjp,241,karnataka,"1,945,497",8.63 %,972,75.74
+160,shimoga,b.y. raghavendra,bjp,275,karnataka,"1,752,753",6.71 %,998,80.45
+162,hassan,h. d. devegowda,jd(s),269,karnataka,"1,776,421",3.18 %,1010,76.07
+163,dakshina kannada,nalin kumar kateel,bjp,221,karnataka,"2,089,649",10.11 %,1020,88.57
+164,chitradurga,janardhana swamy,bjp,297,karnataka,"1,659,456",9.33 %,974,73.71
+165,tumkur,g.s. basavaraj,bjp,150,karnataka,"2,678,980",3.65 %,984,75.14
+166,mandya,n cheluvaraya swamy @,jd(s),264,karnataka,"1,805,769",2.38 %,995,70.4
+167,mysore,adagur h vishwanath,inc,125,karnataka,"3,001,127",13.63 %,985,72.79
+168,chamarajanagar,r.dhruvanarayana,inc,441,karnataka,"1,020,791",5.73 %,993,61.43
+169,bangalore rural,h.d.kumaraswamy,jd(s),450,karnataka,"990,923",16.45 %,946,77.93
+174,kolar,k.h.muniyappa,inc,325,karnataka,"1,536,401",10.77 %,979,74.39
+175,kasaragod,p karunakaran,cpm,375,kerala,"1,307,375",8.58 %,1080,90.09
+176,kannur,k. sudhakaran,inc,170,kerala,"2,523,003",4.73 %,1136,95.1
+178,wayanad,m.i. shanavas,inc,481,kerala,"817,420",4.71 %,1035,89.03
+179,kozhikode,m.k. raghavan,inc,114,kerala,"3,086,293",7.20 %,1098,95.08
+180,malappuram,e. ahamed,mul,50,kerala,"4,112,920",13.45 %,1098,93.57
+182,palakkad,m.b. rajesh,cpm,139,kerala,"2,809,934",7.35 %,1067,89.31
+184,thrissur,p c chacko,inc,110,kerala,"3,121,200",4.94 %,1108,95.08
+186,ernakulam,prof. k v thomas,inc,104,kerala,"3,282,388",5.69 %,1027,95.89
+187,idukki,adv. p.t thomas,inc,416,kerala,"1,108,974",-1.79 %,1006,91.99
+188,kottayam,jose k.mani (karingozheckal),kec(m),234,kerala,"1,974,551",1.07 %,1039,97.21
+189,alappuzha,k.c venugopal,inc,215,kerala,"2,127,789",0.88 %,1100,95.72
+191,pathanamthitta,anto antony punnathaniyil,inc,398,kerala,"1,197,412",-2.97 %,1132,96.55
+192,kollam,n.peethambarakurup,inc,153,kerala,"2,635,375",1.94 %,1113,94.09
+194,thiruvananthapuram,shashi tharoor,inc,103,kerala,"3,301,427",2.07 %,1087,93.02
+195,morena,narendra singh tomar,bjp,236,madhya pradesh,"1,965,970",23.44 %,840,71.03
+196,bhind,ashok argal,bjp,288,madhya pradesh,"1,703,005",19.21 %,837,75.26
+197,gwalior,yashodhara raje scindia,bjp,228,madhya pradesh,"2,032,036",24.50 %,864,76.65
+198,guna,jyotiraditya madhavrao scindia,inc,386,madhya pradesh,"1,241,519",26.97 %,912,63.23
+199,sagar,bhupendra singh,bjp,188,madhya pradesh,"2,378,458",17.63 %,893,76.46
+200,tikamgarh,virendra kumar,bjp,343,madhya pradesh,"1,445,166",20.13 %,901,61.43
+201,damoh,shivraj bhaiya,bjp,382,madhya pradesh,"1,264,219",16.63 %,910,69.73
+203,satna,ganesh singh,bjp,204,madhya pradesh,"2,228,935",19.19 %,926,72.26
+204,rewa,deoraj singh patel,bsp,190,madhya pradesh,"2,365,106",19.86 %,931,71.62
+205,sidhi,govind prasad mishra,bjp,411,madhya pradesh,"1,127,033",23.72 %,957,64.43
+206,shahdol,rajesh nandini singh,inc,426,madhya pradesh,"1,066,063",17.39 %,974,66.67
+207,jabalpur,rakesh singh,bjp,179,madhya pradesh,"2,463,289",14.51 %,929,81.07
+208,mandla,basori singh masram,inc,432,madhya pradesh,"1,054,905",17.97 %,1008,66.87
+209,balaghat,k. d. deshmukh,bjp,289,madhya pradesh,"1,701,698",13.60 %,1021,77.09
+210,chhindwara,kamal nath,inc,220,madhya pradesh,"2,090,922",13.07 %,964,71.16
+211,hoshangabad,uday pratap singh,inc,387,madhya pradesh,"1,241,350",14.49 %,914,75.29
+212,vidisha,sushma swaraj,bjp,339,madhya pradesh,"1,458,875",20.09 %,896,70.53
+213,bhopal,kailash joshi,bjp,189,madhya pradesh,"2,371,061",28.62 %,918,80.37
+214,rajgarh,narayansingh amlabe,inc,322,madhya pradesh,"1,545,814",23.26 %,956,61.21
+215,dewas,sajjan singh verma,inc,320,madhya pradesh,"1,563,715",19.53 %,942,69.35
+216,ujjain,guddu premchand,inc,233,madhya pradesh,"1,986,864",16.12 %,955,72.34
+218,ratlam,kantilal bhuria,inc,341,madhya pradesh,"1,455,069",19.72 %,971,66.78
+219,dhar,gajendra singh rajukhedi,inc,209,madhya pradesh,"2,185,793",25.60 %,964,59.0
+220,indore,sumitra mahajan (tai),bjp,105,madhya pradesh,"3,276,697",32.88 %,928,80.87
+223,betul,jyoti dhurve,bjp,318,madhya pradesh,"1,575,362",12.92 %,971,68.9
+224,nandurbar,gavit manikrao hodlya,inc,303,maharashtra,"1,648,295",25.66 %,978,64.38
+225,dhule,sonawane pratap narayanrao,bjp,223,maharashtra,"2,050,862",20.08 %,946,72.8
+226,jalgaon,a.t. nana patil,bjp,46,maharashtra,"4,229,917",14.86 %,925,78.2
+229,akola,dhotre sanjay shamrao,bjp,262,maharashtra,"1,813,906",11.27 %,946,88.05
+230,amravati,adsul anandrao vithoba,shs,131,maharashtra,"2,888,445",10.79 %,951,87.38
+231,wardha,datta meghe,inc,377,maharashtra,"1,300,774",5.18 %,946,86.99
+233,nagpur,muttemwar vilasrao baburaoji,inc,28,maharashtra,"4,653,570",14.40 %,951,88.39
+236,chandrapur,ahir hansaraj gangaram,bjp,207,maharashtra,"2,204,307",6.43 %,961,80.01
+238,hingoli,subhash bapurao wankhede,shs,403,maharashtra,"1,177,345",19.27 %,942,78.17
+239,nanded,khatgaonkar patil bhaskarrao,inc,99,maharashtra,"3,361,292",16.86 %,943,75.45
+240,parbhani,adv. dudhgaonkar ganeshrao,shs,259,maharashtra,"1,836,086",20.19 %,947,73.34
+241,jalna,danve raosaheb dadarao,bjp,237,maharashtra,"1,959,046",21.46 %,937,71.52
+243,dindori,chavan harishchandra deoram,bjp,501,madhya pradesh,"704,524",21.32 %,1002,63.9
+244,nashik,sameer bhujbal,ncp,11,maharashtra,"6,107,187",22.30 %,934,82.31
+248,thane,dr.sanjeev ganesh naik,ncp,1,maharashtra,"11,060,148",36.01 %,886,84.53
+257,pune,kalmadi suresh,inc,4,maharashtra,"9,429,408",30.37 %,915,86.15
+260,ahmadnagar,gandhi dilipkumar mansukhlal,bjp,33,maharashtra,"4,543,159",12.44 %,939,79.05
+263,osmanabad,patil padamsinha bajirao,ncp,298,maharashtra,"1,657,576",11.50 %,924,78.44
+264,latur,awale jaywant gangaram,inc,180,maharashtra,"2,454,196",17.97 %,928,77.26
+265,solapur,shinde sushilkumar sambhajirao,inc,43,maharashtra,"4,317,756",12.16 %,938,77.02
+267,sangli,pratik prakashbapu patil,inc,136,maharashtra,"2,822,143",9.24 %,966,81.48
+268,satara,bhonsle shrimant chh. udyanraje,ncp,124,maharashtra,"3,003,741",6.93 %,988,82.87
+270,kolhapur,sadashivrao dadoba mandlik,ind,65,maharashtra,"3,876,001",10.01 %,957,81.51
+278,bargarh,sanjay bhoi,inc,338,orissa,"1,481,255",10.02 %,977,74.62
+279,sundargarh,hemanand biswal,inc,217,orissa,"2,093,437",14.35 %,973,73.34
+280,sambalpur,amarnath pradhan,inc,436,orissa,"1,041,099",11.27 %,976,76.22
+282,mayurbhanj,laxman tudu,bjd,171,orissa,"2,519,738",13.33 %,1006,63.17
+284,bhadrak,arjun charan sethi,bjd,333,orissa,"1,506,337",12.94 %,981,82.78
+286,dhenkanal,tathagata satpathy,bjd,400,orissa,"1,192,811",11.80 %,947,78.76
+288,kalahandi,bhakta charan das,inc,317,orissa,"1,576,869",18.07 %,1003,59.22
+290,kandhamal,rudramadhab ray,bjd,497,orissa,"733,110",13.10 %,1037,64.13
+291,cuttack,bhartruhari mahtab,bjd,156,orissa,"2,624,470",12.10 %,940,85.5
+292,kendrapara,baijayant panda,bjd,344,orissa,"1,440,361",10.63 %,1007,85.15
+294,puri,pinaki misra,bjd,290,orissa,"1,698,730",13.05 %,963,84.67
+298,koraput,jayaram pangi,bjd,355,orissa,"1,379,647",16.86 %,1032,49.21
+299,gurdaspur,partap singh bajwa,inc,197,punjab,"2,298,323",9.26 %,895,79.95
+300,amritsar,navjot singh sidhu,bjp,174,punjab,"2,490,656",15.47 %,889,76.27
+302,jalandhar,mohinder singh kaypee,inc,208,punjab,"2,193,590",11.76 %,915,82.48
+303,hoshiarpur,santosh chowdhary,inc,314,punjab,"1,586,625",7.11 %,961,84.59
+305,ludhiana,manish tewari,inc,86,punjab,"3,498,739",15.36 %,873,82.2
+306,fatehgarh sahib,sukhdev singh,inc,525,punjab,"600,163",11.46 %,871,79.35
+307,faridkot,paramjit kaur gulshan,sad,519,punjab,"617,508",12.09 %,890,69.55
+309,bathinda,harsimrat kaur badal,sad,353,punjab,"1,388,525",17.34 %,868,68.28
+310,sangrur,vijay inder singla,inc,300,punjab,"1,655,169",12.35 %,885,67.99
+311,patiala,preneet kaur,inc,247,punjab,"1,895,686",19.62 %,891,75.28
+312,ganganagar,bharat ram meghwal,inc,235,rajasthan,"1,969,168",10.04 %,887,69.64
+313,bikaner,arjun ram meghwal,bjp,191,rajasthan,"2,363,937",41.19 %,905,65.13
+314,churu,ram singh kaswan,bjp,224,rajasthan,"2,039,547",6.01 %,940,66.75
+316,sikar,mahadev singh,inc,151,rajasthan,"2,677,333",17.03 %,947,71.91
+318,jaipur,mahesh joshi,inc,10,rajasthan,"6,626,178",26.19 %,910,75.51
+319,alwar,jitendra singh,inc,76,rajasthan,"3,674,179",22.78 %,895,70.72
+320,bharatpur,ratan singh,inc,166,rajasthan,"2,548,462",21.29 %,880,70.11
+322,dausa,kirodi lal,ind,306,rajasthan,"1,634,409",24.09 %,905,68.16
+324,ajmer,sachin pilot,inc,161,rajasthan,"2,583,052",18.40 %,951,69.33
+325,nagaur,dr. jyoti mirdha,inc,102,rajasthan,"3,307,743",19.20 %,950,62.8
+326,pali,badri ram jakhar,inc,225,rajasthan,"2,037,573",11.94 %,987,62.39
+327,jodhpur,chandresh kumari,inc,72,rajasthan,"3,687,165",27.74 %,916,65.94
+328,barmer,harish choudhary,inc,158,rajasthan,"2,603,751",32.52 %,902,56.53
+330,udaipur,raghuvir singh meena,inc,118,rajasthan,"3,068,420",23.69 %,958,61.82
+331,banswara,tarachand bhagora,inc,267,rajasthan,"1,797,485",26.53 %,980,56.33
+333,rajsamand,gopal singh,inc,405,rajasthan,"1,156,597",17.18 %,990,63.14
+334,bhilwara,dr. c. p. joshi,inc,184,rajasthan,"2,408,523",19.60 %,973,61.37
+335,kota,ijyaraj singh,inc,239,rajasthan,"1,951,014",24.39 %,911,76.56
+338,thiruvallur,venugopal.p,admk,70,tamil nadu,"3,728,104",35.33 %,987,84.03
+343,kancheepuram,viswanathan.p,inc,57,tamil nadu,"3,998,252",38.95 %,986,84.49
+345,vellore,abdul rahman,dmk,63,tamil nadu,"3,936,331",13.20 %,1007,79.17
+346,krishnagiri,sugavanam. e.g.,dmk,251,tamil nadu,"1,879,809",20.41 %,958,71.46
+347,dharmapuri,thamaraiselvan. r,dmk,332,tamil nadu,"1,506,843",16.34 %,946,68.54
+348,tiruvannamalai,venugopal.d,dmk,177,tamil nadu,"2,464,875",12.75 %,994,74.21
+350,viluppuram,anandan m,admk,92,tamil nadu,"3,458,873",16.84 %,987,71.88
+352,salem,semmalai s,admk,90,tamil nadu,"3,482,056",15.44 %,954,72.86
+353,namakkal,gandhiselvan.s,dmk,280,tamil nadu,"1,726,601",15.61 %,986,74.63
+354,erode,ganeshamurthi.a.,mdmk,200,tamil nadu,"2,251,744",11.66 %,993,72.58
+355,tiruppur,sivasami c,admk,175,tamil nadu,"2,479,052",29.11 %,989,78.68
+357,coimbatore,natarajan.p.r.,cpm,93,tamil nadu,"3,458,045",18.56 %,1000,83.98
+359,dindigul,chitthan n s v,inc,212,tamil nadu,"2,159,775",12.31 %,998,76.26
+360,karur,thambidurai.m,admk,429,tamil nadu,"1,064,493",13.77 %,1015,75.6
+361,tiruchirappalli,kumar.p,admk,146,tamil nadu,"2,722,290",12.57 %,1013,83.23
+362,perambalur,"napoleon,d.",dmk,535,tamil nadu,"565,223",14.50 %,1003,74.32
+363,cuddalore,alagiri s,inc,157,tamil nadu,"2,605,914",14.02 %,987,78.04
+366,nagapattinam,vijayan a k s,dmk,310,tamil nadu,"1,616,450",8.57 %,1025,83.59
+367,thanjavur,palanimanickam.s.s,dmk,185,tamil nadu,"2,405,890",8.56 %,1035,82.64
+368,sivaganga,chidambaram p,inc,362,tamil nadu,"1,339,101",15.90 %,1003,79.85
+369,madurai,alagiri m.k,dmk,119,tamil nadu,"3,038,252",17.84 %,990,83.45
+370,theni,aaron rashid.j.m,inc,385,tamil nadu,"1,245,899",13.89 %,991,77.26
+371,virudhunagar,manicka tagore,inc,242,tamil nadu,"1,942,288",10.91 %,1007,80.15
+372,ramanathapuram,sivakumar @ j.k. ritheesh. k,dmk,359,tamil nadu,"1,353,445",13.96 %,983,80.72
+373,thoothukkudi,jeyadurai.s.r,dmk,276,tamil nadu,"1,750,176",11.32 %,1023,86.16
+375,tirunelveli,ramasubbu s,inc,116,tamil nadu,"3,077,233",12.97 %,1023,82.5
+376,kanniyakumari,helen davidson j,dmk,253,tamil nadu,"1,870,374",11.60 %,1019,91.75
+379,saharanpur,jagdish singh rana,bsp,91,uttar pradesh,"3,466,382",19.66 %,890,70.49
+381,muzaffarnagar,kadir rana,bsp,49,uttar pradesh,"4,143,512",16.94 %,889,69.12
+382,bijnor,sanjay singh chauhan,rld,73,uttar pradesh,"3,682,713",17.60 %,917,68.48
+384,moradabad,mohammed azharuddin,inc,26,uttar pradesh,"4,772,006",25.22 %,906,56.77
+385,rampur,jaya prada nahata,sp,194,uttar pradesh,"2,335,819",21.42 %,909,53.34
+388,meerut,rajendra agarwal,bjp,94,uttar pradesh,"3,443,689",14.89 %,886,72.84
+389,baghpat,ajit singh,rld,376,uttar pradesh,"1,303,048",11.95 %,861,72.01
+390,ghaziabad,rajnath singh,bjp,27,uttar pradesh,"4,681,645",42.27 %,881,78.07
+393,aligarh,raj kumari chauhan,bsp,77,uttar pradesh,"3,673,889",22.78 %,882,67.52
+395,mathura,jayant chaudhary,rld,167,uttar pradesh,"2,547,184",22.78 %,863,70.36
+396,agra,dr. ramshankar,bjp,41,uttar pradesh,"4,418,797",22.05 %,868,71.58
+398,firozabad,akhilesh yadav,sp,172,uttar pradesh,"2,498,156",21.69 %,875,71.92
+399,mainpuri,mulayam singh yadav,sp,254,uttar pradesh,"1,868,529",17.02 %,881,75.99
+400,etah,kalyan singh r o madholi,ind,271,uttar pradesh,"1,774,480",13.62 %,873,70.81
+403,bareilly,praveen singh aron,inc,39,uttar pradesh,"4,448,359",22.93 %,887,58.49
+404,pilibhit,feroze varun gandhi,bjp,229,uttar pradesh,"2,031,007",23.45 %,895,61.47
+405,shahjahanpur,mithlesh,sp,123,uttar pradesh,"3,006,538",18.00 %,872,59.54
+406,kheri,zafar ali naqvi,inc,56,uttar pradesh,"4,021,243",25.38 %,894,60.56
+408,sitapur,kaisar jahan,bsp,38,uttar pradesh,"4,483,992",23.88 %,888,61.12
+409,hardoi,usha verma,sp,51,uttar pradesh,"4,092,845",20.44 %,868,64.57
+411,unnao,annutandon,inc,112,uttar pradesh,"3,108,367",15.11 %,907,66.37
+413,lucknow,lal ji tandon,bjp,31,uttar pradesh,"4,589,838",25.82 %,917,77.29
+414,rae bareli,sonia gandhi,inc,97,uttar pradesh,"3,405,559",18.56 %,943,67.25
+416,sultanpur,dr.sanjay singh,inc,68,uttar pradesh,"3,797,117",18.11 %,983,69.27
+417,pratapgarh,rajkumari ratna singh,inc,109,uttar pradesh,"3,209,141",17.50 %,998,70.09
+417,pratapgarh,rajkumari ratna singh,inc,472,rajasthan,"867,848",22.78 %,983,55.97
+418,farrukhabad,salman khursheed,inc,250,uttar pradesh,"1,885,204",20.05 %,874,69.04
+419,etawah,premdas,sp,315,uttar pradesh,"1,581,810",18.15 %,870,78.41
+420,kannauj,akhilesh yadav,sp,299,uttar pradesh,"1,656,616",19.27 %,879,72.7
+423,jalaun,ghansyam anuragi,sp,294,uttar pradesh,"1,689,974",16.19 %,865,73.75
+424,jhansi,pradeep kumar jain (aditya),inc,232,uttar pradesh,"1,998,603",14.54 %,890,75.05
+426,banda,r. k. singh patel,sp,266,uttar pradesh,"1,799,410",17.05 %,863,66.67
+427,fatehpur,rakesh sachan,sp,155,uttar pradesh,"2,632,733",14.05 %,901,67.43
+428,kaushambi,shailendra kumar,sp,312,uttar pradesh,"1,599,596",23.70 %,908,61.28
+430,allahabad,kunwar rewati raman singh,sp,13,uttar pradesh,"5,954,391",20.63 %,901,72.32
+431,barabanki,p.l.punia,inc,107,uttar pradesh,"3,260,699",21.96 %,910,61.75
+432,faizabad,nirmal khatri,inc,176,uttar pradesh,"2,470,996",18.29 %,962,68.73
+433,ambedkar nagar,rakesh pandey,bsp,186,uttar pradesh,"2,397,888",18.30 %,978,72.23
+434,bahraich,kamal kishor,inc,89,uttar pradesh,"3,487,731",46.48 %,892,49.36
+436,shrawasti,vinay kumar alias vinnu,inc,414,uttar pradesh,"1,117,361",-5.02 %,881,46.74
+437,gonda,beni prasad verma,inc,95,uttar pradesh,"3,433,919",24.17 %,921,58.71
+439,basti,arvind kumar chaudhary,bsp,178,uttar pradesh,"2,464,464",18.21 %,963,67.22
+440,sant kabir nagar,bhisma shankar alias kushal,bsp,283,uttar pradesh,"1,715,183",20.77 %,972,66.72
+442,gorakhpur,adityanath,bjp,40,uttar pradesh,"4,440,895",17.81 %,950,70.83
+444,deoria,gorakh prasad jaiswal,bsp,113,uttar pradesh,"3,100,946",14.31 %,1017,71.13
+447,azamgarh,ramakant yadav,bjp,30,uttar pradesh,"4,613,913",17.11 %,1019,70.93
+450,ballia,neeraj shekhar,sp,108,uttar pradesh,"3,239,774",17.31 %,937,70.94
+451,jaunpur,dhananjay singh,bsp,36,uttar pradesh,"4,494,204",14.89 %,1024,71.55
+453,ghazipur,radhey mohan singh,sp,79,uttar pradesh,"3,620,268",19.18 %,952,71.78
+454,chandauli,ramkishun,sp,238,uttar pradesh,"1,952,756",18.83 %,918,71.48
+455,varanasi,dr. murli manohar joshi,bjp,75,uttar pradesh,"3,676,841",17.15 %,913,75.6
+457,mirzapur,bal kumar patel,sp,173,uttar pradesh,"2,496,970",18.00 %,903,68.48
+461,jalpaiguri,mahendra kumar roy,cpm,66,west bengal,"3,872,846",13.87 %,953,73.25
+469,murshidabad,abdul mannan hossain,inc,9,west bengal,"7,103,807",21.09 %,958,66.59
+494,bankura,acharia basudeb,cpm,80,west bengal,"3,596,674",12.65 %,957,70.26
+495,bishnupur,susmita bauri,cpm,585,manipur,"237,399",13.93 %,999,75.85
+500,birbhum,satabdi roy,aitc,84,west bengal,"3,502,404",16.15 %,956,70.68
+502,raigarh,vishnu deo sai,bjp,154,maharashtra,"2,634,200",19.31 %,959,83.14
+502,raigarh,vishnu deo sai,bjp,336,chhattisgarh,"1,493,984",18.05 %,991,73.26
+504,korba,charan das mahant,inc,394,chhattisgarh,"1,206,640",19.25 %,969,72.37
+505,bilaspur,dilip singh judev,bjp,152,chhattisgarh,"2,663,629",33.29 %,971,70.78
+505,bilaspur,dilip singh judev,bjp,563,himachal pradesh,"381,956",12.05 %,981,84.59
+506,rajnandgaon,madhusudan yadav,bjp,324,chhattisgarh,"1,537,133",19.79 %,1015,75.96
+507,durg,saroj pandey,bjp,100,chhattisgarh,"3,343,872",18.98 %,988,79.06
+508,raipur,ramesh bais,bjp,53,chhattisgarh,"4,063,872",34.70 %,984,75.56
+509,mahasamund,chandulal sahu (chandu bhaiya),bjp,438,chhattisgarh,"1,032,754",20.05 %,1017,71.02
+510,bastar,baliram kashyap,bjp,348,chhattisgarh,"1,413,199",17.96 %,1023,54.4
+511,kanker,sohan potai,bjp,494,chhattisgarh,"748,941",15.06 %,1006,70.29
+513,dumka,shibu soren,jmm,371,jharkhand,"1,321,442",19.42 %,977,61.02
+514,godda,nishikant dubey,bjp,372,jharkhand,"1,313,551",25.35 %,938,56.4
+515,chatra,inder singh namdhari,ind,433,jharkhand,"1,042,886",31.77 %,953,60.18
+516,kodarma,babulal marandi,jvm,500,jharkhand,"716,259",43.42 %,950,66.84
+517,giridih,ravindra kumar pandey,bjp,182,jharkhand,"2,445,474",28.41 %,944,63.14
+518,dhanbad,pashupati nath singh,bjp,149,jharkhand,"2,684,487",11.99 %,909,74.52
+519,ranchi,subodh kant sahay,inc,130,jharkhand,"2,914,253",23.98 %,949,76.06
+522,khunti,karia munda,bjp,541,jharkhand,"531,885",22.32 %,997,63.86
+523,lohardaga,sudarshan bhagat,bjp,550,jharkhand,"461,790",26.68 %,985,67.61
+525,hazaribagh,yashwant sinha,bjp,279,jharkhand,"1,734,495",20.65 %,947,69.75
+526,tehri garhwal,vijay bahuguna,inc,518,uttarakhand,"618,931",2.35 %,1077,76.36
+528,almora,pradeep tamta,inc,517,uttarakhand,"622,506",-1.28 %,1139,80.47
+532,chandigarh,pawan kumar bansal,inc,431,chandigarh,"1,055,450",17.19 %,818,86.05
+536,north east delhi,jai prakash agarwal,inc,202,delhi,"2,241,624",26.78 %,886,83.09
+537,east delhi,sandeep dikshit,inc,284,delhi,"1,709,346",16.79 %,884,89.31
+538,new delhi,ajay makan,inc,603,delhi,"142,004",-20.72 %,822,88.34
+539,north west delhi,krishna tirath,inc,78,delhi,"3,656,539",27.81 %,865,84.45
+540,west delhi,mahabal mishra,inc,168,delhi,"2,543,243",19.46 %,875,86.98
+541,south delhi,ramesh kumar,inc,144,delhi,"2,731,929",20.51 %,862,86.57
+542,lakshadweep,hamdullah sayeed,inc,627,lakshadweep,"64,473",6.30 %,946,91.85
+543,puducherry,narayanasamy,inc,458,puducherry,"950,289",29.23 %,1029,85.44
